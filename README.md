@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glepensky but you can call me Gabi.
-- 👀 I’m interested in software/web development, quality assurance, and anything AI. 
-- 🌱 I’m currently learning: Quality Assurance via C4 (thanks Val and Sage!).
+- 👀 I’m interested in software/web development, quality assurance, and everything AI. 
+- 🌱 I’m currently learning: Quality Assurance via T4 (thanks Val and Sage!).
 - 💞️ I’m looking to collaborate on projects using React and creating tests.
 - 📫 How to reach me: linkedin.com/in/gabrielle-lepensky/
 - 😄 Pronouns: she/her
