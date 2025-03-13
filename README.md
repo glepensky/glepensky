@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning: Quality Assurance (via the T4 certification - thanks Val and Sage!).
 - 💞️ I’m looking to collaborate on projects using React and creating tests.
 - 📫 How to reach me: linkedin.com/in/gabrielle-lepensky/
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I made an app to track my favorite pizza spots! It's called Topza and it's pinned on my profile. Check it out!
 
 <!---
