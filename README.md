@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @glepensky but you can call me Gabi.
 - 👀 I’m interested in software & web development, quality assurance, and AI. 
-- 🌱 I’m currently learning: Quality Assurance (via the T4 certification - thanks Val and Sage!).
+- 🌱 I’m currently learning: Quality Assurance.
 - 💞️ I’m looking to collaborate on projects using React and creating tests.
 - 📫 How to reach me: linkedin.com/in/gabrielle-lepensky/
 - ⚡ Fun fact: I made an app to track my favorite pizza spots! It's called Topza and it's pinned on my profile. Check it out!
