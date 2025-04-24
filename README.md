@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @glepensky but you can call me Gabi!
+- 👋 Hi, I’m @glepensky but you can call me Gabi.
 - 👀 I’m interested in software & web development, quality assurance, and AI. 
 - 🌱 I’m currently learning: Quality Assurance.
 - 💞️ I’m looking to collaborate on projects using React and creating tests.
